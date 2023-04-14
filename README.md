@@ -1,3 +1,4 @@
+![logo](https://github.com/sunny2050x/sunny2050x/blob/main/bg.png)
 <h1 align="center">Hi 👋, I'm Sunny Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
